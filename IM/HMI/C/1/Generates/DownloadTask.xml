@@ -2,7 +2,11 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="14.0.1.0"
+<<<<<<< HEAD
     CreationTime="2017-12-06 16:45:59 (UTC)"
+=======
+    CreationTime="2017-11-29 16:55:16 (UTC)"
+>>>>>>> e395b01f4cb5f808f6a402bd803a0b8fc134ac28
     Runtime="COLORADO"
     RtProjectName="Triedenie_beden;S7-1500+TP700_Confort+OPC_UA.HMI[TP700 Comfort]"
     RtProjectFolderName="Triedenie_beden;S7-1500+TP700_Confort+OPC_UA.HMI[TP700 Comfort]"
